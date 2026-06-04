@@ -1,10 +1,9 @@
 # Global Auto Interface Toolkit
-
-A static web-based portfolio project for customer-facing technical, business, and project interface workflows in automotive and global manufacturing contexts.
+A static web-based portfolio project for customer-facing technical, business, and project interface workflows in automotive manufacturing contexts.
 
 The toolkit demonstrates how customer feedback can be converted into structured issue records, action tracking, 8D-style problem-solving drafts, supplier risk visibility, controlled English customer communication, and printable case-pack reports.
 
-**Live Demo:** `https://ning-interface.github.io/global-auto-interface-toolkit/`
+**Live Demo:** `https://ning-interface.github.io/automotive-interface-workflow-toolkit/`
 
 ---
 
